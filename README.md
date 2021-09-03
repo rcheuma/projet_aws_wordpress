@@ -43,12 +43,6 @@ Destroying the Infra:
 2. terraform destroy -auto-approve
 
 
-
-Change: (latest detail from top)
------- 
-
-Code has been changed on 11th April, 2020. Code is now compatible with below versions.
-
 Versions:
 --------
 Terraform v0.12.24
@@ -57,5 +51,5 @@ Terraform v0.12.24
 
 
 
-__(Old)__ Code slightly changed on 03-09-2021. 
+Code slightly changed on 03-09-2021. 
 I have added providers.tf with versions required for each provider
