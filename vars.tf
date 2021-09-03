@@ -6,7 +6,7 @@ variable "aws_reg" {
 
 variable "username" {
   description = "DB username"
-  
+
 }
 
 variable "password" {
