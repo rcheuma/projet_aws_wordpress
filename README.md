@@ -57,5 +57,5 @@ Terraform v0.12.24
 
 
 
-__(Old)__ Code slightly changed on 31st May, 2019. 
+__(Old)__ Code slightly changed on 03-09-2021. 
 I have added providers.tf with versions required for each provider
