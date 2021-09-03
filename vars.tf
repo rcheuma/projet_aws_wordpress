@@ -6,16 +6,14 @@ variable "aws_reg" {
 
 variable "username" {
   description = "DB username"
-  default     = "admin"
+  
 }
 
 variable "password" {
-  default     = "admin"
   description = "DB password"
 }
 
 variable "dbname" {
-  default     = "mydb"
   description = "db name"
 }
 
